@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://sengevb.github.io/DOKI/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://sengevb.github.io/DOKI/assets/icon.png</image:loc>
+            <image:title>DOKI 启动器图标</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://sengevb.github.io/DOKI/assets/screen-launch.png</image:loc>
+            <image:title>DOKI 启动器 启动页</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://sengevb.github.io/DOKI/assets/screen-download.png</image:loc>
+            <image:title>DOKI 启动器 下载页</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://sengevb.github.io/DOKI/assets/screen-theme.png</image:loc>
+            <image:title>DOKI 启动器 主题设置</image:title>
+        </image:image>
+    </url>
+</urlset>

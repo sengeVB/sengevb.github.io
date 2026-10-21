@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sengevb.github.io/DOKI/sitemap.xml
